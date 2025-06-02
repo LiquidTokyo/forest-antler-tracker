@@ -69,8 +69,8 @@
               <b>Large Net Production</b>
               <hr style="border:0; border-top:1px solid #3a3a3a; margin:6px 0 10px 0;">
               <span style='color:#9be48d'><b>Resource Saver:</b> -45% at every step</span><br>
-              Max by Antlers: <span id="stat-maxnet-antler">0</span><br>
-              Max by Straw: <span id="stat-maxnet-straw">0</span><br>
+              Large Nets by Antlers: <span id="stat-maxnet-antler">0</span><br>
+              Large Nets by Straw: <span id="stat-maxnet-straw">0</span><br>
               <b>Total Possible Large Nets:</b> <span id="stat-largenets">0</span><br>
               <span style='font-size:12px;color:#cfc;'>Antler/Net: <span id='stat-antler-cost'>-</span><br>Straw/Net: <span id='stat-straw-cost'>-</span></span>
             </div>
